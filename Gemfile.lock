@@ -130,7 +130,7 @@ GEM
       mime-types
     paperclip-meta (0.4.3)
       paperclip
-    pg (0.13.2)
+    pg (0.18.4)
     polyglot (0.3.4)
     pr_geohash (1.0.0)
     progress_bar (0.4.0)
@@ -270,7 +270,7 @@ DEPENDENCIES
   jquery-rails (~> 2.0)
   paperclip (= 3.0.3)
   paperclip-meta (= 0.4.3)
-  pg (= 0.13.2)
+  pg (= 0.18.4)
   progress_bar (= 0.4.0)
   pry
   rails (= 3.2.18)
